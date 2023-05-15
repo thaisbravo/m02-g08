@@ -1,0 +1,42 @@
+body {font-family: sans-serif;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+#final {color: white;
+	    background: black;
+	    width: 100%; 
+	    margin: 0 auto;}
+
+  #gr {padding-top: 30px;
+       padding-left: 30px;
+       text-align: center}
+
+  #id {display: flex;
+       align-items: center;
+       text-align: center;
+       margin-left: 20px}
+
+    #integrante {display: table-cell;
+                 padding: 30px;}
+  
+
+
+
+
+
