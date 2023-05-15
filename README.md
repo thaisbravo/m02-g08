@@ -3,3 +3,4 @@
 Integrantes:
 - Michelle Müller
 - Martina Correa
+- Carolina Sepúlveda
