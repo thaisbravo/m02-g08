@@ -4,3 +4,6 @@ Integrantes:
 - Michelle Müller
 - Martina Correa
 - Carolina Sepúlveda
+- Martina Osses
+- Sara Izquierdo
+- Thaís Bravo
